@@ -8,3 +8,8 @@ p{
     color: chartreuse;
     text-transform: capitalize;
 }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
